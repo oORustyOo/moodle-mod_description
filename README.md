@@ -1,8 +1,9 @@
-# Course description plugin
+# Course description plugin 3.1a
 =======================
 * Plugin type:    Ressource
-* Moodle Version: 2.8
+* Moodle Version: 3.1a
 * Maintained by:  Flotter Totte
+* Forked by: 	  Erik Nell
 * Copyright:      emeneo
 
 
@@ -15,14 +16,10 @@ Unzip the package and put the folder 'description' into /mod/ of your moodle int
 
 Requirements
 ------------
-Moodle 2.8
-(it should also work with moodle 2.0-2.7 but this has not been tested so far)
-
+Moodle 2.9 | 3.0 | 3.1
 
 Roadmap
 =======
-1. Add further information
-2. Make information display conditional
 
 
 
